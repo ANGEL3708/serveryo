@@ -38,3 +38,21 @@
 [02:27:26] [Server thread/INFO]: ANGEL3708 has made the advancement [Monster Hunter]
 [02:39:08] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-111, y=81, z=27} iw{x=-109, y=79, z=26}
 [02:39:08] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-111, y=81, z=27} iw{x=-109, y=79, z=26}
+[02:59:55] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
+[02:59:55] [Server thread/INFO]: ANGEL3708 left the game
+[03:00:00] [User Authenticator #2/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
+[03:00:01] [Server thread/INFO]: ANGEL3708[/127.197.225.37:58247] logged in with entity id 17342 at (-110.29133975355134, 81.0, 28.472304983640345)
+[03:00:01] [Server thread/INFO]: ANGEL3708 joined the game
+[03:01:30] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
+[03:01:30] [Server thread/INFO]: ANGEL3708 left the game
+[03:02:18] [Server thread/INFO]: Stopping the server
+[03:02:18] [Server thread/INFO]: Stopping server
+[03:02:18] [Server thread/INFO]: Saving players
+[03:02:18] [Server thread/INFO]: Saving worlds
+[03:02:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:02:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03:02:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:02:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
