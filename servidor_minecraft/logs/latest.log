@@ -1,38 +1,33 @@
-[01:53:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:53:37] [ServerMain/INFO]: Loaded 1373 recipes
-[01:53:37] [ServerMain/INFO]: Loaded 1484 advancements
-[01:53:37] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[01:53:37] [Server thread/INFO]: Loading properties
-[01:53:37] [Server thread/INFO]: Default game type: SURVIVAL
-[01:53:37] [Server thread/INFO]: Generating keypair
-[01:53:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:53:37] [Server thread/INFO]: Using epoll channel type
-[01:53:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:53:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:53:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:53:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:53:37] [Server thread/INFO]: Preparing level "world"
-[01:53:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:53:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:53:40] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[01:53:40] [Server thread/INFO]: Time elapsed: 2572 ms
-[01:53:40] [Server thread/INFO]: Done (2.865s)! For help, type "help"
-[01:54:01] [Server thread/INFO]: ANGEL3708[/127.82.26.140:41443] logged in with entity id 77 at (-8.165887128350583, 112.0, 5.881613325236244)
-[01:54:02] [Server thread/INFO]: ANGEL3708 joined the game
-[01:54:04] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
-[01:54:04] [Server thread/INFO]: ANGEL3708 left the game
-[01:54:23] [Server thread/INFO]: Stopping the server
-[01:54:23] [Server thread/INFO]: Stopping server
-[01:54:23] [Server thread/INFO]: Saving players
-[01:54:23] [Server thread/INFO]: Saving worlds
-[01:54:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:54:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:54:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:54:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:54:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:54:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:54:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:15:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:15:37] [ServerMain/INFO]: No existing world data, creating new world
+[01:15:38] [ServerMain/INFO]: Loaded 1373 recipes
+[01:15:38] [ServerMain/INFO]: Loaded 1484 advancements
+[01:15:38] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[01:15:38] [Server thread/INFO]: Loading properties
+[01:15:38] [Server thread/INFO]: Default game type: SURVIVAL
+[01:15:38] [Server thread/INFO]: Generating keypair
+[01:15:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:15:38] [Server thread/INFO]: Using epoll channel type
+[01:15:38] [Server thread/INFO]: Preparing level "world"
+[01:15:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:15:47] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:15:47] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[01:15:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:15:48] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[01:15:49] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[01:15:49] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[01:15:50] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[01:15:50] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[01:15:51] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[01:15:51] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:15:52] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:15:52] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[01:15:52] [Server thread/INFO]: Time elapsed: 5554 ms
+[01:15:52] [Server thread/INFO]: Done (13.786s)! For help, type "help"
+[01:16:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:16:55] [User Authenticator #1/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
+[01:16:58] [Server thread/INFO]: ANGEL3708[/127.197.225.37:37087] logged in with entity id 9 at (-4.5, 120.0, 9.5)
+[01:16:58] [Server thread/INFO]: ANGEL3708 joined the game
+[01:22:00] [Server thread/INFO]: ANGEL3708 has made the advancement [Stone Age]
+[01:22:52] [Server thread/INFO]: ANGEL3708 has made the advancement [Getting an Upgrade]
+[01:23:39] [Server thread/INFO]: ANGEL3708 has made the advancement [Acquire Hardware]
