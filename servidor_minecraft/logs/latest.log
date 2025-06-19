@@ -36,3 +36,5 @@
 [01:31:34] [Server thread/INFO]: ANGEL3708 has made the advancement [Suit Up]
 [01:49:47] [Server thread/INFO]: ANGEL3708 has made the advancement [Hot Stuff]
 [02:27:26] [Server thread/INFO]: ANGEL3708 has made the advancement [Monster Hunter]
+[02:39:08] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-111, y=81, z=27} iw{x=-109, y=79, z=26}
+[02:39:08] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-111, y=81, z=27} iw{x=-109, y=79, z=26}
