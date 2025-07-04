@@ -1,44 +1,71 @@
-[18:15:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:15:11] [ServerMain/INFO]: Loaded 1373 recipes
-[18:15:11] [ServerMain/INFO]: Loaded 1484 advancements
-[18:15:11] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[18:15:11] [Server thread/INFO]: Loading properties
-[18:15:11] [Server thread/INFO]: Default game type: SURVIVAL
-[18:15:11] [Server thread/INFO]: Generating keypair
-[18:15:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:15:11] [Server thread/INFO]: Using epoll channel type
-[18:15:11] [Server thread/INFO]: Preparing level "world"
-[18:15:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:15:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:15:14] [Server thread/INFO]: Time elapsed: 2491 ms
-[18:15:14] [Server thread/INFO]: Done (2.839s)! For help, type "help"
-[18:15:21] [Server thread/INFO]: ANGEL3708 (/127.95.92.93:52025) lost connection: Disconnected
-[18:15:27] [User Authenticator #1/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
-[18:15:28] [Server thread/INFO]: ANGEL3708[/127.95.92.93:47611] logged in with entity id 32 at (-15.997216179952131, 81.81130449836634, 105.46507370361512)
-[18:15:28] [Server thread/INFO]: ANGEL3708 joined the game
-[18:28:46] [Server thread/INFO]: [ANGEL3708: Teleported ANGEL3708 to -7.030000, 195.000000, 112.470000]
-[18:28:51] [Server thread/INFO]: [ANGEL3708: Teleported ANGEL3708 to -7.030000, 195.000000, 112.470000]
-[18:29:03] [Server thread/INFO]: [ANGEL3708: Successfully filled 1 block(s)]
-[18:29:48] [Server thread/INFO]: [ANGEL3708: Teleported ANGEL3708 to -4.520000, 195.130000, 112.400000]
-[18:30:31] [Server thread/INFO]: [ANGEL3708: Set own game mode to Survival Mode]
-[18:30:35] [Server thread/INFO]: [ANGEL3708: Set own game mode to Creative Mode]
-[18:30:52] [Server thread/INFO]: [ANGEL3708: Set own game mode to Survival Mode]
-[18:31:22] [Server thread/INFO]: [ANGEL3708: Set own game mode to Creative Mode]
-[18:34:05] [Server thread/INFO]: [ANGEL3708: Set own game mode to Survival Mode]
-[18:38:43] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
-[18:38:43] [Server thread/INFO]: ANGEL3708 left the game
-[18:39:00] [Server thread/INFO]: Stopping the server
-[18:39:00] [Server thread/INFO]: Stopping server
-[18:39:00] [Server thread/INFO]: Saving players
-[18:39:00] [Server thread/INFO]: Saving worlds
-[18:39:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:39:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:39:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:39:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:39:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:39:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:39:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:43:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:43:47] [ServerMain/INFO]: Loaded 1373 recipes
+[18:43:47] [ServerMain/INFO]: Loaded 1484 advancements
+[18:43:47] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[18:43:47] [Server thread/INFO]: Loading properties
+[18:43:47] [Server thread/INFO]: Default game type: SURVIVAL
+[18:43:47] [Server thread/INFO]: Generating keypair
+[18:43:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:43:47] [Server thread/INFO]: Using epoll channel type
+[18:43:47] [Server thread/INFO]: Preparing level "world"
+[18:43:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:43:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:43:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:43:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:43:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:43:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:43:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:43:50] [Server thread/INFO]: Time elapsed: 2752 ms
+[18:43:50] [Server thread/INFO]: Done (3.171s)! For help, type "help"
+[18:43:54] [User Authenticator #1/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
+[18:43:55] [Server thread/INFO]: ANGEL3708[/127.95.92.93:37103] logged in with entity id 22 at (-6.699999988079071, 196.0, 112.44568274572833)
+[18:43:55] [Server thread/INFO]: ANGEL3708 joined the game
+[18:46:43] [Server thread/WARN]: Couldn't find profile with name: angel3706
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Couldn't find any profile with name angel3706
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103) ~[authlib-6.0.58.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56) ~[authlib-6.0.58.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:109) ~[authlib-6.0.58.jar:?]
+	at avx.a(SourceFile:80) ~[server-1.21.5.jar:?]
+	at avx.a(SourceFile:137) ~[server-1.21.5.jar:?]
+	at ez.a(SourceFile:65) ~[server-1.21.5.jar:?]
+	at ez.a(SourceFile:31) ~[server-1.21.5.jar:?]
+	at ank.a(SourceFile:30) ~[server-1.21.5.jar:?]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at hu.a(SourceFile:29) ~[server-1.21.5.jar:?]
+	at hu.execute(SourceFile:13) ~[server-1.21.5.jar:?]
+	at hp.a(SourceFile:8) ~[server-1.21.5.jar:?]
+	at hh.a(SourceFile:8) ~[server-1.21.5.jar:?]
+	at hl.a(SourceFile:107) ~[server-1.21.5.jar:?]
+	at el.a(SourceFile:384) ~[server-1.21.5.jar:?]
+	at el.a(SourceFile:314) ~[server-1.21.5.jar:?]
+	at el.a(SourceFile:304) ~[server-1.21.5.jar:?]
+	at aqr.br(SourceFile:300) ~[server-1.21.5.jar:?]
+	at aqr.G(SourceFile:282) ~[server-1.21.5.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:1073) ~[server-1.21.5.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:946) ~[server-1.21.5.jar:?]
+	at net.minecraft.server.MinecraftServer.y(SourceFile:706) ~[server-1.21.5.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:290) ~[server-1.21.5.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[18:46:43] [Server thread/INFO]: That player does not exist
+[18:46:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[18:46:53] [Server thread/INFO]: 	deop ANGEL3708<--[HERE]
+[18:47:03] [Server thread/INFO]: [ANGEL3708: Set own game mode to Creative Mode]
+[18:47:04] [Server thread/INFO]: [ANGEL3708: Set own game mode to Adventure Mode]
+[18:47:05] [Server thread/INFO]: [ANGEL3708: Set own game mode to Survival Mode]
+[18:47:14] [Server thread/INFO]: Made ANGEL3708 no longer a server operator
+[18:49:24] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
+[18:49:24] [Server thread/INFO]: ANGEL3708 left the game
+[18:49:26] [User Authenticator #2/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
+[18:49:27] [Server thread/INFO]: ANGEL3708[/127.95.92.93:34981] logged in with entity id 2497 at (-6.699999988079071, 196.0, 112.55968488661507)
+[18:49:27] [Server thread/INFO]: ANGEL3708 joined the game
+[18:49:40] [Server thread/INFO]: Stopping the server
+[18:49:40] [Server thread/INFO]: Stopping server
+[18:49:40] [Server thread/INFO]: Saving players
+[18:49:41] [Server thread/INFO]: Saving worlds
+[18:49:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:49:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:49:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:49:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:49:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:49:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:49:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
