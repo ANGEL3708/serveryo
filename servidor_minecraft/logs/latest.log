@@ -1,34 +1,36 @@
-[03:02:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:02:46] [ServerMain/INFO]: Loaded 1373 recipes
-[03:02:46] [ServerMain/INFO]: Loaded 1484 advancements
-[03:02:46] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[03:02:46] [Server thread/INFO]: Loading properties
-[03:02:46] [Server thread/INFO]: Default game type: SURVIVAL
-[03:02:46] [Server thread/INFO]: Generating keypair
-[03:02:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:02:47] [Server thread/INFO]: Using epoll channel type
-[03:02:47] [Server thread/INFO]: Preparing level "world"
-[03:02:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:02:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:02:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:02:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:02:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:02:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:02:50] [Server thread/INFO]: Time elapsed: 2447 ms
-[03:02:50] [Server thread/INFO]: Done (2.722s)! For help, type "help"
-[03:03:00] [User Authenticator #1/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
-[03:03:01] [Server thread/INFO]: ANGEL3708[/127.197.225.37:54839] logged in with entity id 10 at (-110.29133975355134, 81.0, 28.472304983640345)
-[03:03:01] [Server thread/INFO]: ANGEL3708 joined the game
-[03:40:16] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
-[03:40:16] [Server thread/INFO]: ANGEL3708 left the game
-[03:40:49] [Server thread/INFO]: Stopping the server
-[03:40:49] [Server thread/INFO]: Stopping server
-[03:40:49] [Server thread/INFO]: Saving players
-[03:40:49] [Server thread/INFO]: Saving worlds
-[03:40:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:40:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03:40:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:40:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:51:04] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:51:04] [ServerMain/WARN]: Missing data pack fabric
+[17:51:04] [ServerMain/WARN]: Missing data pack fabric-convention-tags-v2
+[17:51:04] [ServerMain/WARN]: Missing data pack liteminer
+[17:51:05] [ServerMain/INFO]: Loaded 1373 recipes
+[17:51:06] [ServerMain/INFO]: Loaded 1484 advancements
+[17:51:06] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[17:51:06] [Server thread/INFO]: Loading properties
+[17:51:06] [Server thread/INFO]: Default game type: SURVIVAL
+[17:51:06] [Server thread/INFO]: Generating keypair
+[17:51:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:51:06] [Server thread/INFO]: Using epoll channel type
+[17:51:06] [Server thread/INFO]: Preparing level "world"
+[17:51:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:51:09] [Server thread/INFO]: Time elapsed: 3364 ms
+[17:51:09] [Server thread/INFO]: Done (3.708s)! For help, type "help"
+[17:51:32] [User Authenticator #1/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
+[17:51:34] [Server thread/INFO]: ANGEL3708[/127.254.128.58:39709] logged in with entity id 13 at (-171.87777051504554, 68.0, 113.04021402456605)
+[17:51:34] [Server thread/INFO]: ANGEL3708 joined the game
+[17:55:51] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
+[17:55:51] [Server thread/INFO]: ANGEL3708 left the game
+[17:56:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:58:10] [User Authenticator #2/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
+[17:58:12] [Server thread/INFO]: ANGEL3708[/127.95.92.93:50449] logged in with entity id 877 at (-176.63397269333709, 70.0, 90.58513948855384)
+[17:58:12] [Server thread/INFO]: ANGEL3708 joined the game
+[18:01:52] [Server thread/INFO]: Made ANGEL3708 a server operator
+[18:02:05] [Server thread/INFO]: [ANGEL3708: Set own game mode to Creative Mode]
+[18:03:26] [Server thread/INFO]: [ANGEL3708: Successfully filled 9862 block(s)]
+[18:03:38] [Server thread/INFO]: [ANGEL3708: Successfully filled 389 block(s)]
