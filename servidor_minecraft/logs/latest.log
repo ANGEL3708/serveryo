@@ -21,3 +21,16 @@
 [01:16:32] [Server thread/INFO]: ANGEL3708[/127.95.92.93:48035] logged in with entity id 10 at (-156.2373644080953, 71.5625, 92.81276263967293)
 [01:16:32] [Server thread/INFO]: ANGEL3708 joined the game
 [01:32:01] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-154, y=71, z=91} iw{x=-156, y=70, z=96}
+[01:54:38] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
+[01:54:38] [Server thread/INFO]: ANGEL3708 left the game
+[01:55:05] [Server thread/INFO]: Stopping the server
+[01:55:05] [Server thread/INFO]: Stopping server
+[01:55:05] [Server thread/INFO]: Saving players
+[01:55:05] [Server thread/INFO]: Saving worlds
+[01:55:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:55:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:55:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:55:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:55:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:55:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:55:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
