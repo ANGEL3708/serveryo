@@ -1675,9 +1675,10 @@
       "minecraft:crimson_forest": "2025-06-22 01:23:49 +0000",
       "minecraft:nether_wastes": "2025-06-22 01:20:12 +0000",
       "minecraft:soul_sand_valley": "2025-06-22 01:36:49 +0000",
-      "minecraft:basalt_deltas": "2025-06-22 01:48:56 +0000"
+      "minecraft:basalt_deltas": "2025-06-22 01:48:56 +0000",
+      "minecraft:warped_forest": "2025-07-07 01:09:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
@@ -3506,6 +3507,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-05 01:20:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-07 01:08:20 +0000"
     },
     "done": true
   },

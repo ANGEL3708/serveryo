@@ -1,36 +1,30 @@
-[01:16:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:16:17] [ServerMain/INFO]: Loaded 1373 recipes
-[01:16:17] [ServerMain/INFO]: Loaded 1484 advancements
-[01:16:17] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[01:16:17] [Server thread/INFO]: Loading properties
-[01:16:17] [Server thread/INFO]: Default game type: SURVIVAL
-[01:16:17] [Server thread/INFO]: Generating keypair
-[01:16:17] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:16:17] [Server thread/INFO]: Using epoll channel type
-[01:16:17] [Server thread/INFO]: Preparing level "world"
-[01:16:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:16:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:16:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:16:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:16:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:16:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:16:20] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:16:20] [Server thread/INFO]: Time elapsed: 2927 ms
-[01:16:20] [Server thread/INFO]: Done (3.210s)! For help, type "help"
-[01:16:30] [User Authenticator #1/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
-[01:16:32] [Server thread/INFO]: ANGEL3708[/127.95.92.93:48035] logged in with entity id 10 at (-156.2373644080953, 71.5625, 92.81276263967293)
-[01:16:32] [Server thread/INFO]: ANGEL3708 joined the game
-[01:32:01] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-154, y=71, z=91} iw{x=-156, y=70, z=96}
-[01:54:38] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
-[01:54:38] [Server thread/INFO]: ANGEL3708 left the game
-[01:55:05] [Server thread/INFO]: Stopping the server
-[01:55:05] [Server thread/INFO]: Stopping server
-[01:55:05] [Server thread/INFO]: Saving players
-[01:55:05] [Server thread/INFO]: Saving worlds
-[01:55:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:55:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:55:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:55:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:55:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:55:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:55:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:50:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:50:29] [ServerMain/INFO]: Loaded 1373 recipes
+[00:50:29] [ServerMain/INFO]: Loaded 1484 advancements
+[00:50:29] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[00:50:29] [Server thread/INFO]: Loading properties
+[00:50:29] [Server thread/INFO]: Default game type: SURVIVAL
+[00:50:29] [Server thread/INFO]: Generating keypair
+[00:50:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:50:29] [Server thread/INFO]: Using epoll channel type
+[00:50:29] [Server thread/INFO]: Preparing level "world"
+[00:50:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:50:33] [Worker-Main-3/INFO]: Preparing spawn area: 6%
+[00:50:34] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[00:50:34] [Server thread/INFO]: Time elapsed: 4823 ms
+[00:50:34] [Server thread/INFO]: Done (5.177s)! For help, type "help"
+[00:51:34] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:51:50] [User Authenticator #1/INFO]: UUID of player ANGEL3708 is 238dfd00-da8d-45db-9928-9d55f9a8098f
+[00:51:52] [Server thread/INFO]: ANGEL3708[/127.95.92.93:37565] logged in with entity id 11 at (-159.54134623725457, 71.0, 92.64119484409544)
+[00:51:52] [Server thread/INFO]: ANGEL3708 joined the game
+[01:09:41] [Server thread/INFO]: ANGEL3708 has completed the challenge [Hot Tourist Destinations]
+[01:10:08] [Server thread/INFO]: ANGEL3708 lost connection: Disconnected
+[01:10:08] [Server thread/INFO]: ANGEL3708 left the game
